@@ -1,0 +1,1 @@
+Homepage project to display the webpage adapting to different screen sized devices
